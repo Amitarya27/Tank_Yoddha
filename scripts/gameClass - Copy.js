@@ -11,6 +11,7 @@ class Game {
             15, 2, 2, 5, 27, 22, 22, 25, 22, 36
 
         ];
+        
         this.tileCount = 0;
         this.sX = 0;
         this.sY = 0;
